@@ -1,3 +1,3 @@
 # DraggableFrames
-![](screenshots/light_example)
-![](screenshots/dark_example)
+![](screenshots/light_example.png)
+![](screenshots/dark_example.png)
