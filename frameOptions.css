@@ -1,0 +1,84 @@
+/*
+All the code was written by the creator - GDLev,
+you can use this code for private and commercial purposes,
+but do not share this code further as your own.
+If you've reworked this code, you can use it for yourself and for your company/projects,
+or share some of the code in patch form on various forums,
+just don't forget to write that the code isn't entirely yours and provide the URL to my github profile or original project.
+https://github.com/GDLev/draggableFrames
+
+Thank you for reading
+*/
+
+.df_light {
+    position: absolute;
+    z-index: 9;
+    background-color: rgb(194, 194, 194);
+    text-align: center;
+    font-family: sans-serif, 'Roboto';
+    font-size: 15px;
+    padding-bottom: 10px;
+    box-shadow: 14px 15px 24px 18px rgba(32, 32, 32, 0.116);
+}
+
+.df_dark {
+    position: absolute;
+    z-index: 9;
+    background-color: #363946;
+    text-align: center;
+    font-family: sans-serif, 'Roboto';
+    color: white;
+    font-size: 15px;
+    padding-bottom: 10px;
+    box-shadow: 14px 15px 24px 18px rgba(32,32,32,0.28);
+}
+.df_icon {
+    float: left;
+    padding-left:10px; 
+    padding-right:10px;
+}
+.df_light #df_header{
+    font-size: 17px;
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: #526DD1;
+    color: #fff;
+}
+.df_option{
+    margin-left: 50px;
+    text-align: right;
+    cursor: pointer;
+    position: absolute;
+    right: 12px;
+    top: 8px;
+}
+.df_option:hover{
+    color: rgb(168, 168, 168);
+}
+
+.df_dark #df_header{
+    font-size: 17px;
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: #26262e;
+    color: #fff;
+}
+.df_rounded{
+    border-radius: 5px;
+}
+.df_dark a{
+    text-decoration: none;
+    color: rgb(252, 45, 55);
+}
+.df_light a{
+    text-decoration: none;
+    color: rgb(252, 45, 55);
+}
+.df_dark a:hover{
+    border-bottom: 1px solid rgb(252, 45, 55);
+}
+.df_light a:hover{
+    border-bottom: 1px solid rgb(252, 45, 55);
+}
