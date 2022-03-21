@@ -61,4 +61,4 @@ df_create({
 * More animations
 * code optimization
 
-I'm open to ideas. if you have any idea, write me a message on [discord](https://discord.com/639174051373383730) or write suggestion on the open thread under this project
+I'm open to ideas. if you have any idea, write me a message on [discord](https://discord.com/users/639174051373383730) or write suggestion on the open thread under this project
