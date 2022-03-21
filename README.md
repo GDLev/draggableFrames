@@ -1,8 +1,8 @@
 ![](screenshots/header.png)
 
 ## About the Project:
-Have you ever wanted to create quick and easy to generate draggable frames in html?__
-With these scripts, you can do it even without knowing html__
+Have you ever wanted to create quick and easy to generate draggable frames in html?\
+With these scripts, you can do it even without knowing html\
 If you want to support me just give me a star or give me a follow and do not remove signatures from scripts
 
 ## Usage:
