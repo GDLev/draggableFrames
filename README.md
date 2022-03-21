@@ -24,7 +24,6 @@ If you want to support me just give me a star or give me a follow and do not rem
           "theme": "dark",
           "title": "Example",
           "content": "here you can put your html code<br>Good luck!<br>",
-          "float": 'left',
           "icon": "assets/question.png",
           "rounded": true,
         });
