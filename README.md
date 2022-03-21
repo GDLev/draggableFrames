@@ -33,7 +33,7 @@ If you want to support me just give me a star or give me a follow and do not rem
 ```
 #### Generation options:
 ```js
-{
+df_create({
     "theme": "light", // (light/dark) - frame theme
     "title": "Example", // header content
     "content": "An example", // frame content
@@ -44,7 +44,7 @@ If you want to support me just give me a star or give me a follow and do not rem
     "bg_color": "blue", // custom content background
     "width": "auto", // frame width
     "height": "auto" // frame height
-}
+})
 ```
 #### the simplest way:
 ```js
