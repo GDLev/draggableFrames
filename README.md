@@ -42,7 +42,8 @@ df_create({
     "bg_header": "blue", // custom header background
     "bg_color": "blue", // custom content background
     "width": "auto", // frame width
-    "height": "auto" // frame height
+    "height": "auto", // frame height
+    "rounded": true
 })
 ```
 #### the simplest way:
