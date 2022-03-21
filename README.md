@@ -1,5 +1,10 @@
 ![](screenshots/header.png)
 
+## About the Project:
+Have you ever wanted to create quick and easy to generate draggable frames in html?
+With these scripts, you can do it even without knowing html
+If you want to support me just give me a star or give me a follow and do not remove signatures from scripts
+
 ## Usage:
 * Add a div element to your web body
 * Import scripts and styles
@@ -49,3 +54,10 @@ df_create({
   "content": "here you can put your html code<br>Good luck!<br>",
 });
 ```
+
+## What I plan to do:
+* Ability to open several frames at once
+* More themes and buttons
+* More animations
+* code optimization
+I'm open to ideas. if you have any idea, write me a message on discord or write suggestion on the open thread under this project
