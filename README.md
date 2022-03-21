@@ -27,7 +27,7 @@
 </body>
 ```
 #### Generation options:
-```json
+```js
 {
     "theme": "light", // (light/dark) - frame theme
     "title": "Example", // header content
