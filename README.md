@@ -1,5 +1,6 @@
 ![](screenshots/header.png)
 
+https://wakatime.com/badge/github/GDLev/uploadpopup.svg
 ## About the Project:
 Have you ever wanted to create quick and easy to generate draggable frames in html?\
 With these scripts, you can do it even without knowing html\
