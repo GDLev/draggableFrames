@@ -6,7 +6,6 @@ If you've reworked this code, you can use it for yourself and for your company/p
 or share some of the code in patch form on various forums,
 just don't forget to write that the code isn't entirely yours and provide the URL to my github profile or original project.
 https://github.com/GDLev/draggableFrames
-
 Thank you for reading
 */
 
@@ -32,6 +31,8 @@ function df_create(options) {
   } else {
     if (!obj.theme) {
       obj.theme = "light"
+    } if (obj.theme != "light" && obj.theme != "dark") {
+        obj.theme = "light"
     }
     var add_content = "";
     var header_additional = "";
@@ -77,5 +78,3 @@ function df_close(object) {
 function df_error() {
   document.body.innerHTML = document.body.innerHTML + `<div id="df_draggable" class="df_dark df_error df_shadow" style="top: 50%;left: 50%;-moz-transform: translateX(-50%) translateY(-50%);-webkit-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);"><div id="df_header" class="df_error" style="color:#526DD1;">Frame loading Error<span class="df_option df_error" onclick="df_close('df_error');">✖</span></div><p><img src='assets/danger.png' width='30px;' class="df_error df_icon"><span style='float:right; margin-right:10px;'>The code does not include the div element "spawnArea"<br>If you are a web administrator read docs<br><a href="https://github.com/GDLev/draggableFrames#Usage">https://github.com/GDLev/draggableFrames#Usage</a></span></div>`
 }
-
-
